@@ -1,24 +1,9 @@
-# Arduino Bottle Washer Automation
+# Automated Bottle Washer System
 
-![Arduino](https://img.shields.io/badge/Platform-Arduino-blue)
-![Status](https://img.shields.io/badge/Status-Prototype-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 An Arduino-based bottle washer control system that counts bottles using an IR sensor and automatically runs a relay-controlled washing/locking/actuator sequence after the target number of bottles is detected.
 
 This project is designed for small-scale automated bottle handling systems where bottles need to be detected, locked, positioned, and processed in a repeatable sequence.
-
----
-
-## Preview
-
-> **Note:** The image and video below are generic references for a bottle washing system. Replace them with photos or videos of your own machine when available.
-
-![Generic bottle washing machine reference](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Bottle_washing_machine_at_a_dairy_%28I0004249%29.jpg/960px-Bottle_washing_machine_at_a_dairy_%28I0004249%29.jpg)
-
-**Generic reference video:**
-
-[![Bottle washer demo video](https://img.youtube.com/vi/W1yU7Grc02k/hqdefault.jpg)](https://www.youtube.com/watch?v=W1yU7Grc02k)
 
 ---
 
