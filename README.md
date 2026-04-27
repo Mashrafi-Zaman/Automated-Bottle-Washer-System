@@ -151,14 +151,4 @@ This project may control motors, actuators, pumps, or other high-current devices
 
 ---
 
-## Future Improvements
 
-- Add LCD/OLED display for bottle count and mode
-- Add emergency stop input
-- Add non-blocking timing using `millis()` instead of `delay()`
-- Add EEPROM memory for saved bottle target
-- Add pump relay control
-- Add manual test mode for each relay
-- Add serial monitor debugging
-
----
